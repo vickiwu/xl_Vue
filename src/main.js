@@ -1,6 +1,6 @@
 import Vue from 'vue'
 
-import Cookies from 'js-cookie'
+import Cookies from 'js-cookie' // Cookies.set('name', 'value'); Cookies.get('name'); // => 'value'
 
 import 'normalize.css/normalize.css' // a modern alternative to CSS resets
 
